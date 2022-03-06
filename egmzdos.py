@@ -1,7 +1,7 @@
 import socket,random
 
 print("""\033[1;32;40m 
-EGE MİZAH UDP ATTACK TOOLS
+ege mizah udp attack toolu
 1 => UDP DoS
 2 => TCP DoS 
 
