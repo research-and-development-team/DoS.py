@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import socket,random
 
 print("""\033[1;32;40m 
